@@ -1,4 +1,4 @@
-# Linux Maintainance Manual
+# Linux Maintenance Manual
 
 ---
 
